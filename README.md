@@ -7,12 +7,11 @@ This repository is used to build OpenStack Tempest docker image automatically fo
 
 | Tempest version | OpenStack version |
 |-----------------|-------------------|
-| `latest` |  **Pike** |
+| `latest` | **Pike** with minor changes |
+| `16.0.0` | **Pike** |
 | `15.0.0` | **Mitaka**, **Newton**, **Ocata** |
 
 
 You can also refer to the following URL for more detail information:
-
 - [Releases · openstack/tempest](https://github.com/openstack/tempest/releases)
-
 - [tempest Release Notes — tempest Release Notes 16.0.1.dev157 documentation](https://docs.openstack.org/releasenotes/tempest/)
