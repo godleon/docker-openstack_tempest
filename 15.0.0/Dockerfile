@@ -28,5 +28,4 @@ RUN git checkout 15.0.0
 WORKDIR /
 RUN pip install tempest/
 
-
-CMD ["echo", "tempest:16.0.0"]
+CMD ["/bin/bash"]

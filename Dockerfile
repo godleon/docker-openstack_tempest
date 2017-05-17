@@ -26,5 +26,4 @@ RUN git clone https://github.com/openstack/tempest.git
 WORKDIR /
 RUN pip install tempest/
 
-
-CMD ["echo", "tempest:16.0.0"]
+CMD ["/bin/bash"]
