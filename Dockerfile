@@ -19,4 +19,4 @@ WORKDIR /
 RUN pip install tempest/
 
 
-CMD ["/bin/bash"]
+CMD ["echo", "tempest:16.0.0"]
